@@ -333,9 +333,11 @@ header {
   color: var(--clr-secondary);
 }
 #about,
-#services,
-#tours {
+#services{
   height: 90vh;
+}
+#tours{
+  height: 70vh;
 }
 #services {
   background: var(--clr-white);
